@@ -1,0 +1,13 @@
+.outer-container{
+  width: 480px;
+  height: 480px;
+  background-color:  #4d94ff;
+}
+
+.inner-square{
+  background-color: #ffff00;
+  width: 50%;
+  height: 50%;
+  margin: 25%;
+  display: inline-block;
+}
